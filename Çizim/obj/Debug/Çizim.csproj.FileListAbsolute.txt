@@ -1,0 +1,10 @@
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\bin\Debug\Çizim.exe.config
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\bin\Debug\Çizim.exe
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\bin\Debug\Çizim.pdb
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\obj\Debug\Çizim.csprojAssemblyReference.cache
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\obj\Debug\Çizim.Form1.resources
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\obj\Debug\Çizim.Properties.Resources.resources
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\obj\Debug\Çizim.csproj.GenerateResource.cache
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\obj\Debug\Çizim.csproj.CoreCompileInputs.cache
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\obj\Debug\Çizim.exe
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\Çizim\Çizim\obj\Debug\Çizim.pdb
